@@ -1,0 +1,7 @@
+## Interface: 120000,120001,120005,120007,120100,120105,120107,16001
+## Title: Shadowed Unit Frames - Elite Indicator
+## Notes: Show the dragon graphic around the frame for elite and rare mobs.
+## Author: Aviana
+## Dependencies: ShadowedUnitFrames
+
+elite.lua
